@@ -67,7 +67,7 @@ Database Schema :
       
 * Setup Instructions
 1. Clone the Repository
-      git clone https://github.com/Pavan-000/InventoryManagement.git
+      git clone https://github.com/Pavan-000/InventoryManagementBackend.git
       cd inventorybackend
 
 2. Install Dependencies
